@@ -1,0 +1,1 @@
+# RadhaRani Macro Agent 🙏\nAn AI agent that learns to build Excel VBA macro projects, blessed by Radha Rani’s wisdom.\n\n## Features:\n- Builds macros\n- Improves them based on feedback\n- Remembers tasks to avoid re-querying GPT\n\n## Jai Radhe Radhe 🌺
