@@ -1,0 +1,10 @@
+{
+    "build me a macro to copy some data from an source ": {
+        "model": "mistral",
+        "correction": "exit"
+    },
+    "Create a macro that colors all header rows in yell": {
+        "model": "mistral",
+        "correction": "correct "
+    }
+}
